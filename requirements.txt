@@ -1,0 +1,2 @@
+# HyperOS Fastboot Toolkit uses 100% Python Standard Library modules at runtime.
+# No third-party pip packages are required (Python 3.8+ with tkinter).

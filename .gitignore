@@ -1,0 +1,32 @@
+# Personal Xiaomi Account Sessions, Tokens & Logs (NEVER commit)
+token.txt
+xiaomi_session.txt
+unlock_session.json
+unlock_result.log
+*.log
+
+# Compiled binaries, dynamic libraries, archives & downloaded SDK/driver tools
+*.exe
+*.dll
+*.zip
+platform-tools/
+mi-unlock/
+fix_fastboot_usb.bat
+GPUCache/
+
+# Python cache & virtual environments
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+
+# Local build, packaging, media & document workspace folders
+build/
+dist/
+release_packages/
+Photos/
+screenshots/
+cv_output/
+*.spec
